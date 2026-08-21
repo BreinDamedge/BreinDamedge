@@ -1,4 +1,22 @@
-## Hi there 👋
+## About Me:
+Hi hi! I like to make stuff that does stuff. Always learning. Just finished undergrad & looking forward to future work o7
+
+## Interests
+- Deep RL
+- IR Systems
+- Numerical Optimization
+- Robotics
+
+  
+## Current Projects:
+- [miniwoofer](https://github.com/BreinDamedge/miniwoofer)
+- [tart (TermART)](https://github.com/BreinDamedge/ANSIRenderer)
+- other stuff
+
+## Languages:
+- Python
+- C
+- Go
 
 <!--
 **BreinDamedge/BreinDamedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
