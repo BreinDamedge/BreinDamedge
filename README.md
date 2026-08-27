@@ -10,7 +10,7 @@ Hi hi! I like to make stuff that does stuff. Always learning. Just finished unde
   
 ## Current Projects:
 - [miniwoofer](https://github.com/BreinDamedge/miniwoofer)
-- [tart (TermART)](https://github.com/BreinDamedge/ANSIRenderer)
+- [ArtSI](https://github.com/BreinDamedge/ArtSI)
 - other stuff
 
 ## Languages:
