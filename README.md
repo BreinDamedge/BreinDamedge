@@ -8,6 +8,7 @@ Hi hi! I like to make stuff that does stuff. Always learning. Just finished unde
 - Robotics
   
 ## Current Projects:
+- [breindamedge.dev](https://breindamedge.dev/)
 - [miniwoofer](https://github.com/BreinDamedge/miniwoofer)
 - other stuff...
 
