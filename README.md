@@ -6,17 +6,18 @@ Hi hi! I like to make stuff that does stuff. Always learning. Just finished unde
 - IR Systems
 - Numerical Optimization
 - Robotics
-
   
 ## Current Projects:
 - [miniwoofer](https://github.com/BreinDamedge/miniwoofer)
-- [ArtSI](https://github.com/BreinDamedge/ArtSI)
-- other stuff
+- other stuff...
 
 ## Languages:
 - Python
 - C
 - Go
+
+## Contact:
+jacobableidinger@gmail.com
 
 <!--
 **BreinDamedge/BreinDamedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
